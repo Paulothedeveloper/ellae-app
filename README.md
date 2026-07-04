@@ -76,7 +76,7 @@ Desenvolvido por **Paulo**, desenvolvedor indie brasileiro, com uma identidade d
 
 ---
 
-**[ellae.app](https://ellae.app)** · [App Store](https://apps.apple.com/br/app/ellae/id6762098223) · [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me)
+**[ellae.app](https://ellae.app)** · [App Store](https://apps.apple.com/br/app/ellae/id6762098223) · [contato@paulocodex.com](mailto:contato@paulocodex.com)
 
 *você + elas = ellae*
 
@@ -94,7 +94,7 @@ Desenvolvido por **Paulo**, desenvolvedor indie brasileiro, com uma identidade d
 
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+📧 [contato@paulocodex.com](mailto:contato@paulocodex.com) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
 _Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
