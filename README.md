@@ -1,27 +1,41 @@
-# Ellae — App social pra mulheres
+<div align="center">
 
-![status](https://img.shields.io/badge/status-BETA-yellow) &nbsp; por **Paulo Adriel** · [Paulocodex](https://paulocodex.com)
+# Ellae
 
-Ellae é uma rede social pra mulheres se conhecerem e se encontrarem na vida real, com curadoria e segurança no centro de tudo. Eventos, grupos e conexões presenciais num ambiente cuidado. iOS e Android.
+**A rede social pra mulheres se conhecerem e se encontrarem na vida real, com segurança.**
 
-## O que faz
+![status](https://img.shields.io/badge/status-BETA-7B4FBF?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-iOS%2520%7C%2520Android-1f1f1f?style=for-the-badge)
+
+[![Acessar](https://img.shields.io/badge/Acessar-abrir-7B4FBF?style=for-the-badge)](https://ellae.app)
+
+</div>
+
+
+---
+
+
+## ✨ O que faz
 
 - Encontros e conexões presenciais
 - Curadoria e segurança em primeiro lugar
 - Eventos e grupos
-- iOS + Android
 - Comunidade só de mulheres
 
-## Status
-
-**Em beta** — funcional, ainda em ajustes e revisão de lojas.
-
-## Saiba mais
+## 🔗 Saiba mais
 
 - **Página do projeto:** https://paulocodex.com/p/ellae
-- **Acessar / comprar:** https://ellae.app
+- **Acessar:** https://ellae.app
+- **Site oficial:** https://ellae.app
+
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
 
 ---
-_Este repositório é apenas a **apresentação pública** do projeto. O código-fonte é fechado e não é distribuído aqui._
+<div align="center">
 
-Contato: paulobatista19988@proton.me
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+
+</div>
