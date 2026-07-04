@@ -10,7 +10,7 @@
 
 *você + elas = ellae*
 
-[![Status](https://img.shields.io/badge/status-BETA-7B4FBF?style=for-the-badge)](https://ellae.app)
+[![Status](https://img.shields.io/badge/status-NO%20AR-7B4FBF?style=for-the-badge)](https://ellae.app)
 [![Plataformas](https://img.shields.io/badge/iOS%20%7C%20Android-7B4FBF?style=for-the-badge&logo=apple&logoColor=white)](https://ellae.app)
 [![Preço](https://img.shields.io/badge/100%25%20gr%C3%A1tis-7B4FBF?style=for-the-badge)](https://ellae.app)
 
