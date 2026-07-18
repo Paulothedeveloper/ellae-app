@@ -15,6 +15,7 @@
 [![Preço](https://img.shields.io/badge/100%25%20gr%C3%A1tis-7B4FBF?style=for-the-badge)](https://ellae.app)
 
 [![Baixar na App Store](https://img.shields.io/badge/Baixar%20na%20App%20Store-7B4FBF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/ellae/id6762098223)
+[![Baixar no Google Play](https://img.shields.io/badge/Baixar%20no%20Google%20Play-7B4FBF?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ellae.ellae)
 
 **[ellae.app](https://ellae.app)**
 
@@ -31,6 +32,8 @@ Não é app de paquera. Não é chat infinito. É amizade e encontro presencial 
 - **Segurança em primeiro lugar** — comunidade **exclusiva para mulheres**, com **perfis verificados** e verificação de identidade no cadastro. Denúncia, bloqueio e moderação ativa fazem parte do app, não são detalhe.
 - **Gente perto de você** — descubra mulheres na sua cidade e no seu ritmo. O valor do Ellae é a vizinhança: amizades que cabem no seu dia a dia.
 - **Encontros de verdade** — crie e participe de encontros presenciais do seu jeito: café, jantar, rolê, roda de conversa. O app te ajuda a sair da tela pro mundo real.
+- **Embaixadoras Ellae** — mulheres de referência que cuidam da comunidade na cidade delas e criam Encontros Oficiais pra reunir a galera perto de você.
+- **Hotspots** — lugares parceiros pertinho de você (café, estúdio, espaço) pra se encontrar, com benefícios pra comunidade Ellae.
 - **Comunidade acolhedora** — um espaço leve, feminino e sem corporativês, feito pra pertencer. Aqui você não precisa mais sair sozinha.
 - **100% grátis pra começar** — baixe, verifique seu perfil e comece hoje.
 
@@ -58,7 +61,7 @@ Não é app de paquera. Não é chat infinito. É amizade e encontro presencial 
 ## Baixar
 
 - **iPhone (iOS):** [disponível na App Store](https://apps.apple.com/br/app/ellae/id6762098223)
-- **Android:** chegando ao Google Play — acompanhe em **[ellae.app](https://ellae.app)**
+- **Android:** [disponível no Google Play](https://play.google.com/store/apps/details?id=com.ellae.ellae)
 
 ## Sobre
 
@@ -76,7 +79,7 @@ Desenvolvido por **Paulo**, desenvolvedor indie brasileiro, com uma identidade d
 
 ---
 
-**[ellae.app](https://ellae.app)** · [App Store](https://apps.apple.com/br/app/ellae/id6762098223) · [contato@paulocodex.com](mailto:contato@paulocodex.com)
+**[ellae.app](https://ellae.app)** · [App Store](https://apps.apple.com/br/app/ellae/id6762098223) · [Google Play](https://play.google.com/store/apps/details?id=com.ellae.ellae) · [contato@paulocodex.com](mailto:contato@paulocodex.com)
 
 *você + elas = ellae*
 
