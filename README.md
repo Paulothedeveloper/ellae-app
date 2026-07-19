@@ -6,7 +6,7 @@
 
 ### Você não precisa mais sair sozinha.
 
-**A rede social feita só para mulheres — pra conhecer gente perto de você e sair com segurança, na vida real.**
+**A rede social feita só para mulheres: pra conhecer gente perto de você e sair com segurança, na vida real.**
 
 *você + elas = ellae*
 
@@ -23,26 +23,26 @@
 
 ---
 
-Fazer amizade de verdade depois de adulta é difícil. Mudou de cidade, a rotina fechou o ciclo, as amigas ficaram longe — e sair sozinha nem sempre parece seguro. O Ellae existe pra resolver exatamente isso: um lugar **só de mulheres** pra encontrar quem mora perto de você, combinar um café, um jantar, uma roda de conversa ou um rolê, e ir **acompanhada**.
+Fazer amizade de verdade depois de adulta é difícil. Mudou de cidade, a rotina fechou o ciclo, as amigas ficaram longe, e sair sozinha nem sempre parece seguro. O Ellae existe pra resolver exatamente isso: um lugar **só de mulheres** pra encontrar quem mora perto de você, combinar um café, um jantar, uma roda de conversa ou um rolê, e ir **acompanhada**.
 
-Não é app de paquera. Não é chat infinito. É amizade e encontro presencial entre mulheres — com segurança no centro de tudo.
+Não é app de paquera. Não é chat infinito. É amizade e encontro presencial entre mulheres, com segurança no centro de tudo.
 
 ## Por que o Ellae é diferente
 
-- **Segurança em primeiro lugar** — comunidade **exclusiva para mulheres**, com **perfis verificados** e verificação de identidade no cadastro. Denúncia, bloqueio e moderação ativa fazem parte do app, não são detalhe.
-- **Gente perto de você** — descubra mulheres na sua cidade e no seu ritmo. O valor do Ellae é a vizinhança: amizades que cabem no seu dia a dia.
-- **Encontros de verdade** — crie e participe de encontros presenciais do seu jeito: café, jantar, rolê, roda de conversa. O app te ajuda a sair da tela pro mundo real.
-- **Embaixadoras Ellae** — mulheres de referência que cuidam da comunidade na cidade delas e criam Encontros Oficiais pra reunir a galera perto de você.
-- **Hotspots** — lugares parceiros pertinho de você (café, estúdio, espaço) pra se encontrar, com benefícios pra comunidade Ellae.
-- **Comunidade acolhedora** — um espaço leve, feminino e sem corporativês, feito pra pertencer. Aqui você não precisa mais sair sozinha.
-- **100% grátis pra começar** — baixe, verifique seu perfil e comece hoje.
+- **Segurança em primeiro lugar:** comunidade **exclusiva para mulheres**, com **perfis verificados** e verificação de identidade no cadastro. Denúncia, bloqueio e moderação ativa fazem parte do app, não são detalhe.
+- **Gente perto de você:** descubra mulheres na sua cidade e no seu ritmo. O valor do Ellae é a vizinhança: amizades que cabem no seu dia a dia.
+- **Encontros de verdade:** crie e participe de encontros presenciais do seu jeito: café, jantar, rolê, roda de conversa. O app te ajuda a sair da tela pro mundo real.
+- **Embaixadoras Ellae:** mulheres de referência que cuidam da comunidade na cidade delas e criam Encontros Oficiais pra reunir a galera perto de você.
+- **Hotspots:** lugares parceiros pertinho de você (café, estúdio, espaço) pra se encontrar, com benefícios pra comunidade Ellae.
+- **Comunidade acolhedora:** um espaço leve, feminino e sem corporativês, feito pra pertencer. Aqui você não precisa mais sair sozinha.
+- **100% grátis pra começar:** baixe, verifique seu perfil e comece hoje.
 
 ## Como funciona
 
 1. **Baixe o Ellae** e crie seu perfil.
-2. **Verifique sua identidade** — é o que mantém a comunidade só de mulheres e confiável.
+2. **Verifique sua identidade:** é o que mantém a comunidade só de mulheres e confiável.
 3. **Encontre mulheres perto de você** e veja os encontros na sua cidade.
-4. **Combine ou crie um encontro** — e vá acompanhada.
+4. **Combine ou crie um encontro** e vá acompanhada.
 
 ## Conheça o app
 
@@ -65,13 +65,13 @@ Não é app de paquera. Não é chat infinito. É amizade e encontro presencial 
 
 ## Sobre
 
-O Ellae nasceu em **Porto Velho (RO)** com uma ideia simples e teimosa: amizade adulta é possível, e mulher nenhuma deveria deixar de sair por medo de sair sozinha. Desde então virou um app cuidado nos detalhes — verificação, moderação e uma comunidade que se protege — pensado por e para mulheres brasileiras.
+O Ellae nasceu em **Porto Velho (RO)** com uma ideia simples e teimosa: amizade adulta é possível, e mulher nenhuma deveria deixar de sair por medo de sair sozinha. Desde então virou um app cuidado nos detalhes (verificação, moderação e uma comunidade que se protege), pensado por e para mulheres brasileiras.
 
 Desenvolvido por **Paulo**, desenvolvedor indie brasileiro, com uma identidade de marca própria (design **KR8**) e obsessão por fazer o simples funcionar bem. É software de gente pequena feito com padrão de gente grande.
 
 ## Marca
 
-- **Identidade:** KR8 Hub — dueto **roxo (#644BF0)** + **amarelo (#FFE000)**, sobre fundos claros e cremes.
+- **Identidade:** KR8 Hub: dueto **roxo (#644BF0)** + **amarelo (#FFE000)**, sobre fundos claros e cremes.
 - **Tipografia:** Parkinsans (títulos) + Nunito (texto).
 - **Tom de voz:** acolhedor, direto, feminino. Sem corporativês.
 
@@ -87,17 +87,17 @@ Desenvolvido por **Paulo**, desenvolvedor indie brasileiro, com uma identidade d
 
 ## 🥷 Mascote
 
-<img src="https://paulocodex.com/brand/ninjas/ellae.png" alt="Ellae — ninja" width="200" align="right" />
+<img src="https://paulocodex.com/brand/ninjas/ellae.png" alt="Ellae: ninja" width="200" align="right" />
 
-Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **Ellae**.
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade: o mesmo mascote da casa, recolorido pro tema do **Ellae**.
 
 <br clear="right" />
 
-## 👤 Sobre o desenvolvedor
+## Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele (código + identidade visual, motion e material de lançamento) do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
 <br clear="left" />
 
@@ -107,6 +107,6 @@ Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o me
 
 📧 [contato@paulocodex.com](mailto:contato@paulocodex.com) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulodev.codex) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+_Repositório de **apresentação pública**: o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
